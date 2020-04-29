@@ -1,2 +1,3 @@
-##Welcome to my Repository HSH
-This is all about a website for a Home Investment Institution.
+## Welcome to HSH a CSS framed sitepage
+HSH home investments is a site purely designed out of CSS and HTML.
+
